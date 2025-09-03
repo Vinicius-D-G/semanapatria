@@ -23,3 +23,6 @@ O site foi feito para ser simples, rápido e acessível, funcionando em qualquer
 ## Como acessar
 O site está hospedado no GitHub Pages e pode ser acessado pelo link:  
 https://vinicius-d-g.github.io/semanapatria/
+
+##Qrcode para acessar o site:
+![WhatsApp Image 2025-09-02 at 23 21 01](https://github.com/user-attachments/assets/6638994f-a45d-46de-bcc4-af605135323a)
